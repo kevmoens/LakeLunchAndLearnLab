@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35825.156 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LakeLunchAndLearnLab", "LakeLunchAndLearnLab\LakeLunchAndLearnLab\LakeLunchAndLearnLab.csproj", "{59A19B94-9C40-4FC0-9D3D-4C8F94FE3D0D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LakeLunchAndLearnLab", "LakeLunchAndLearnLab\LakeLunchAndLearnLab.csproj", "{59A19B94-9C40-4FC0-9D3D-4C8F94FE3D0D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LakeLunchAndLearnLab.Client", "LakeLunchAndLearnLab\LakeLunchAndLearnLab.Client\LakeLunchAndLearnLab.Client.csproj", "{CD9B387F-3A90-4BFF-A2A6-BE93E8DC2165}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LakeLunchAndLearnLab.Client", "LakeLunchAndLearnLab.Client\LakeLunchAndLearnLab.Client.csproj", "{CD9B387F-3A90-4BFF-A2A6-BE93E8DC2165}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
