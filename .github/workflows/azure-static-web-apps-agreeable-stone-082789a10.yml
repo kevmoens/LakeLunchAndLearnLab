@@ -20,7 +20,7 @@ jobs:
     runs-on: ubuntu-latest
     name: Build and Deploy Static App Job
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v2
         with:
           submodules: true
       - name: Build And Deploy
@@ -32,7 +32,7 @@ jobs:
           action: "upload"
           ###### Repository/Build Configurations ######
           app_location: "/LakeLunchAndLearnLab.Client" # App source code path relative to repository root
-          #api_location: "api" # Api source code path relative to repository root - optional
+          api_location: "api" # Api source code path relative to repository root - optional
           output_location: "wwwroot" # Built app content directory, relative to app_location - optional          
           ###### End of Repository/Build Configurations ######
           
